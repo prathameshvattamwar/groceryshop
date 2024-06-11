@@ -19,15 +19,13 @@
     <li>Allows users to add items to the cart.</li>
     <li>Displays a cart indicator when items are added.</li>
   </ul>
-</ol>
-<ol>
+
   <li>Cart Modal</li>
   <ul>
     <li>Shows items added to the cart.</li>
     <li>Allows users to proceed to checkout or cancel.</li>
   </ul>
-</ol>
-<ol>
+
   <li>Payment Page (payment.html)</li>
   <ul>
     <li>Collects user details and payment method.</li>
