@@ -13,21 +13,27 @@
 
 <h3>Client-Side Features</h3>
 <ol>
-  Home Page (index.html)
-  <li>Displays available grocery items.</li>
-  <li>Allows users to add items to the cart.</li>
-  <li>Displays a cart indicator when items are added.</li>
+  <li>Home Page (index.html)</li>
+  <ol>
+    <li>Displays available grocery items.</li>
+    <li>Allows users to add items to the cart.</li>
+    <li>Displays a cart indicator when items are added.</li>
+  </ol>
 </ol>
 <ol>
-  Cart Modal
-  <li>Shows items added to the cart.</li>
-  <li>Allows users to proceed to checkout or cancel.</li>
+  <li>Cart Modal</li>
+  <ol>
+    <li>Shows items added to the cart.</li>
+    <li>Allows users to proceed to checkout or cancel.</li>
+  </ol>
 </ol>
 <ol>
-  Payment Page (payment.html)
-  <li>Collects user details and payment method.</li>
-  <li>Provides an option for Cash on Delivery or Online UPI Payment.</li>
-  <li>Displays order summary and estimated delivery date.</li>
+  <li>Payment Page (payment.html)</li>
+  <ol>
+    <li>Collects user details and payment method.</li>
+    <li>Provides an option for Cash on Delivery or Online UPI Payment.</li>
+    <li>Displays order summary and estimated delivery date.</li>
+  </ol>
 </ol>
 
 
