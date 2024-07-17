@@ -73,9 +73,25 @@
 <br><br>
 <h3>Screenshots</h3>
 <p>Home Page</p>
+<img src="https://i.imgur.com/tQu9NLP.png"/>
+<br>
 <p>Cart Modal</p>
+<img src="https://i.imgur.com/EpyzOoK.png"/>
+<br>
 <p>Payment Page</p>
+<img src="https://i.imgur.com/YydQSko.png"/>
+<br>
 <p>Admin Panel</p>
+<img src="https://i.imgur.com/rRpY7Db.png"/>
+<br>
+<img src="https://i.imgur.com/nqiGmhI.png"/>
+<br>
+<img src="https://i.imgur.com/g0BgCnP.png"/>
+<br>
+<img src="https://i.imgur.com/Gjk7Cws.png"/>
+<br>
+<img src="https://i.imgur.com/YVpCHME.png"/>
+<br>
 
 <br><br>
 <h3>Contact</h3>
